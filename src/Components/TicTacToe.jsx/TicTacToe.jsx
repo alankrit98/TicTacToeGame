@@ -27,7 +27,7 @@ const TicTacToe = () => {
 
 
     const toggle = (e, nums) => {
-        if (lock) {
+        if (lock || data[nums] !== "") {
             return 0;
         }
         if (count%2 === 0) {
