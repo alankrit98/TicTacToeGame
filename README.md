@@ -11,9 +11,8 @@ A simple and interactive Tic-Tac-Toe game built for fun and learning.
 
 ## Tech Stack
 
-- Frontend: HTML, CSS, JavaScript (or React, if applicable)
-- Backend: Node.js, Express (if applicable)
-- Deployment: GitHub Pages / Vercel / Netlify
+- Frontend: JavaScript, React.js
+- Deployment: Vercel
 
 ## Installation
 
